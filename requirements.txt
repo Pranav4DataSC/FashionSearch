@@ -1,4 +1,4 @@
 farm-haystack
 streamlit 
 torch
-sentense-transformer
+sentence-transformer
