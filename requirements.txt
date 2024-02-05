@@ -1,5 +1,5 @@
 torch
-farm-haystack
+farm-haystack[inference]
 gradio
 streamlit
 fastapi
