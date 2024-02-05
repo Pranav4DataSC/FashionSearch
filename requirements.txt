@@ -1,4 +1,7 @@
 farm-haystack
-streamlit 
-torch
-sentence-transformer
+gradio
+streamlit
+fastapi
+uvicorn 
+python-multipart 
+jinja2
