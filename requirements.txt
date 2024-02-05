@@ -1,6 +1,6 @@
 torch
+farm-haystack[inference]
 sentence-transformers
-farm-haystack
 gradio
 streamlit
 fastapi
