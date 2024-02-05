@@ -1,5 +1,5 @@
 torch
-sentence_transformers
+sentence-transformers
 farm-haystack
 gradio
 streamlit
